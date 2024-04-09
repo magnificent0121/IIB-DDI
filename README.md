@@ -34,24 +34,23 @@ Hyperparameters for balance the trade-off between prediction and compression.
 usage example :`--beta 1.0`
 
 `--gamma`:
-Hyperparameter to control the weight of the VQ loss in the total loss.
+Hyperparameter to control the weight of the VQ loss in the total loss.  
 usage example: `--gamma 0.5`
 
 `--vq_beta`:
-Hyperparameter to control the weight of the commitment loss in the VQ loss.
+Hyperparameter to control the weight of the commitment loss in the VQ loss.  
 usage example: `--vq_beta 1`
 
 `--vq_delta`:
-Hyperparameter to control the weight of the embedding loss in the VQ loss.
+Hyperparameter to control the weight of the embedding loss in the VQ loss.  
 usage example: `--vq_delta 0.25`
 
 Note: alpha is the ratio of hyperparameters vq_beta and vq_delta.
 
 `--vq_num_embeddings`:
-Hyperparameter to control the number of embeddings in the VQ loss.
+Hyperparameter to control the number of embeddings in the VQ loss.  
 usage example: `--vq_num_embeddings 512`
 
-`--sample_times`
-
-Hyperparameter to control the number of samples for environment sampling.
+`--sample_times`:
+Hyperparameter to control the number of samples for environment sampling.  
 usage example: `--sample_times 3`
