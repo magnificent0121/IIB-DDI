@@ -15,10 +15,10 @@
 - Then, the python file will create ``{}.pt`` file in ``data/processed``.
 
 ### Hyperparameters
-Following Options can be passed to `main.py`
+Following Options can be passed to `main.py`.
 
 `--dataset:`
-Name of the dataset. Supported names are: ZhangDDI, ChemDDI and DeepDDI.
+Name of the dataset. Supported names are: ZhangDDI, ChemDDI and DeepDDI.  
 usage example :`--dataset ZhangDDI`
 
 `--lr:`
