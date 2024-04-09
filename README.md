@@ -1,4 +1,4 @@
-# Improving efficiency in rationale discovery for Out-of-Distribution molecular representations
+# IIB-DDI: Invariant Information Bottle Theory for Out-of-Distribution Drug-Drug Interaction Prediction
 
 ### Requirements
 - Python version: 3.7.10
